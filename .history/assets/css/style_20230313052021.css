@@ -172,15 +172,21 @@ html {
 /* main slider */
 
 #main__slider {
-    min-height: 400px;
-    background-color: rgb(250, 207, 246);
+    /* min-height: 400px; */
+    /* background-color: rgb(250, 207, 246);
     margin-top: 60px;
-    padding-top: 66.6%;
+    padding-top: 66.6%; */
+    /* background: top center /cover no-repeat;
+    background-size: cover; */
     position: relative;
 }
 
 #main__slider .background {
+    min-height: 400px;
     width: 100%;
+    background-color: rgb(250, 207, 246);
+    margin-top: 60px;
+    padding-top: 66.6%;
     background: top center /cover no-repeat;
     background-size: cover;
     position: relative;

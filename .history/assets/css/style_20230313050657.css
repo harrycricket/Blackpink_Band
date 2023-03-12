@@ -173,14 +173,9 @@ html {
 
 #main__slider {
     min-height: 400px;
-    background-color: rgb(250, 207, 246);
+    /* background-color: rgb(250, 207, 246); */
     margin-top: 60px;
     padding-top: 66.6%;
-    position: relative;
-}
-
-#main__slider .background {
-    width: 100%;
     background: top center /cover no-repeat;
     background-size: cover;
     position: relative;
