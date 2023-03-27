@@ -783,12 +783,17 @@ Có thể khắc phục bằng cách:
     }
 
     #main__slider .text-heading {
+        font-weight: 600;
         font-size: 16px;
+        color: rgba(255, 51, 167, 0.9);
+        text-shadow: 0 0 1px black;
     }
 
     #main__slider .text-description {
+        margin-top: 20px;
         font-size: 12px;
-
+        color: rgba(255, 51, 167, 0.9);
+        text-shadow: 0 0 1px black;
     }
 }
 
