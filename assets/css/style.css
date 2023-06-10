@@ -400,7 +400,7 @@ Có thể khắc phục bằng cách:
 .buy-tickets:hover {
     background-color: lime;
     color: black;
-    font-size: 20px;
+    /* font-size: 20px; */
     cursor: pointer;
 }
 
@@ -440,14 +440,12 @@ Có thể khắc phục bằng cách:
     right: 0;
     top: 0;
     padding: 15px;
-    font-weight: bold;
-    background-color: red;
-    opacity: 0.2;
-    border: 0.1px dotted green;
+    font-weight: bolder;
+    font-size: 25px;
 }
 
 .modal-close-botton:hover {
-    opacity: 1;
+    color: red;
     cursor: pointer;
 }
 
